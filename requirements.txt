@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+wordcloud
+joblib
+openpyxl
+flask
+xgboost
+# tensorflow  (optional, only needed for the LSTM)
